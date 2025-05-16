@@ -1,6 +1,8 @@
 # 🌧️ Weather Text-to-CSV Converter
 
+
 A Python script that converts raw weather observation `.txt` files into a clean, structured CSV file — ideal for analysis or uploading to Hugging Face Datasets.
+![Models parse perfectly on HuggingFace](Screenshot_2025-05-16_05-51-13.png)
 
 ### ✅ Input Format Example:
 ```
