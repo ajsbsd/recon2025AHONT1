@@ -1,7 +1,3 @@
-Sure! Here's a full **`README.md`** file including the **MIT License** section in Markdown format. You can copy and paste this directly into your GitHub/GitLab repo.
-
----
-
 # 🌧️ Weather Text-to-CSV Converter
 
 A Python script that converts raw weather observation `.txt` files into a clean, structured CSV file — ideal for analysis or uploading to Hugging Face Datasets.
@@ -102,4 +98,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-Let me know if you want me to generate the actual `LICENSE` file too — or add badges like Python version, license badge, etc.!
+Generated with chat.qwen.ai
